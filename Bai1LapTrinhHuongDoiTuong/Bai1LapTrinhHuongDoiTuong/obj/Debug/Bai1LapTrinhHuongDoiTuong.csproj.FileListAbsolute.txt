@@ -1,0 +1,7 @@
+D:\HocASP.Net\Bai1LapTrinhHuongDoiTuong\Bai1LapTrinhHuongDoiTuong\bin\Debug\Bai1LapTrinhHuongDoiTuong.exe.config
+D:\HocASP.Net\Bai1LapTrinhHuongDoiTuong\Bai1LapTrinhHuongDoiTuong\bin\Debug\Bai1LapTrinhHuongDoiTuong.exe
+D:\HocASP.Net\Bai1LapTrinhHuongDoiTuong\Bai1LapTrinhHuongDoiTuong\bin\Debug\Bai1LapTrinhHuongDoiTuong.pdb
+D:\HocASP.Net\Bai1LapTrinhHuongDoiTuong\Bai1LapTrinhHuongDoiTuong\obj\Debug\Bai1LapTrinhHuongDoiTuong.csprojAssemblyReference.cache
+D:\HocASP.Net\Bai1LapTrinhHuongDoiTuong\Bai1LapTrinhHuongDoiTuong\obj\Debug\Bai1LapTrinhHuongDoiTuong.csproj.CoreCompileInputs.cache
+D:\HocASP.Net\Bai1LapTrinhHuongDoiTuong\Bai1LapTrinhHuongDoiTuong\obj\Debug\Bai1LapTrinhHuongDoiTuong.exe
+D:\HocASP.Net\Bai1LapTrinhHuongDoiTuong\Bai1LapTrinhHuongDoiTuong\obj\Debug\Bai1LapTrinhHuongDoiTuong.pdb
